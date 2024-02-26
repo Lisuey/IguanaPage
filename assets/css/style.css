@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: raleway;
+    font-weight: lighter;
+}
+.raleway300 {
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+}
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.iguana-header{
+    justify-content: center;
+    width: 100vw;
+}
+
+#descripcion {
+    padding: 3vw 5vw;
+}
+
+#textodescripcion {
+    display: inline-block;
+    width: 35vw;
+    padding: 5vw;
+    border: 1vw;
+    border-color: aquamarine;
+}
+
+#iguanasol {
+    display: inline-block;
+    width: 30vw;
+    margin-left: 5vw;
+}
+
+.caracteristicas {
+    background-color: #1e1a13;
+}
+
+
+footer {
+    background-color: #1e1a13;
+}
