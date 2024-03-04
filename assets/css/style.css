@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(235, 255, 231);
+    background-color: rgb(243, 255, 231);
     color: white;
     font-family: "raleway";
     font-weight: lighter;
@@ -17,24 +17,22 @@ h1{
     justify-content: center;
     font-size: 50px;
     font-weight: 500;
+    margin-block-start: 7px;
+    margin-block-end: 7px;
 }
 
 #descripcion {
-    justify-content: center;
     display: flex;
     gap: 106px;
     padding: 45px 150px 66px;
 }
 
 #textodescripcion {
-    display: inline-block;
     width: 470px;
-    border-color: aquamarine;
     padding-top: 31px;
 }
 
 #iguanasol {
-    display: inline-block;
     width: 399px;
 }
 
@@ -48,7 +46,6 @@ h2 {
     background-color: #1e1a13;
     padding: 4rem;
     display: flex;
-    justify-content: center;
     flex-direction: column;
     align-items: center;
 }
